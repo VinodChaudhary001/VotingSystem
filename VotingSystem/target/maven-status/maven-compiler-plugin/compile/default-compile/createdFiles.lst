@@ -1,0 +1,8 @@
+com\voting\votingsystem\JakartaRestConfiguration.class
+com\votingsystem\LogoutServlet.class
+com\votingsystem\RegisterServlet.class
+com\votingsystem\VoteServlet.class
+com\votingsystem\LoginServlet.class
+com\votingsystem\AdminServlet.class
+com\votingsystem\DatabaseConnection.class
+com\voting\votingsystem\resources\JakartaEE11Resource.class
